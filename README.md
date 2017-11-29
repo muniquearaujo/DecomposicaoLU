@@ -11,7 +11,7 @@ A partir do programa utilizado em Sistema de Equações Lineares, foi realizado 
 7. Ajuste uma função do terceiro grau aos dados anteriores e obtenha os coeficientes do polinômio.
 8. Coloque em um gráfico, os dados e a função ajustada. Salve o gráfico como uma figura png e adicione ao seu repositório no github, no arquivo README.md. Coloque os valores dos coeficientes.
 
-Da seguinte função: f(x) = a*(x**3)+b*(x**2)+c*x+d
+Da seguinte função: f(x) = a*x³+b*x²+c*x+d
 
 Obteve-se: 
 a= 1.01263 +/- 0,01109 erro: 1.095%
